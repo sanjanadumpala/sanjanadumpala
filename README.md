@@ -1,27 +1,38 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**sanjanadumpala/sanjanadumpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  I'm <a href="https://sanjanadumpala.github.io/">Sanjana</a>.
 
-Here are some ideas to get you started:
+### 💻 &nbsp;About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+- 🤔 &nbsp; Developing new technologies and software solutions to tackle today’s tech challenges
+- 🎓 &nbsp; Computer Science Masters student at University of Southern California
 <p>
-    I'm <a href="https://sanjanadumpala.github.io/">Sanjana</a> a CS Masters student <a href="https://www.usc.edu">@USC</a>. I'm interested in learning and exploring more about Machine Learning, NLP and Web Development. 
+Feel free to clone or fork the projects, raise issues, and submit pull requests if you have any suggestions for improvements.
 </p>
 <br />
 
-### Connect with me:
+### 🛠 &nbsp;Tech Stack
+
+- 🌐 &nbsp;
+  <!--![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)-->
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular.js](https://img.shields.io/badge/-Angular.js-333333?style=flat&logo=angular)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Perforce](https://img.shields.io/badge/-Perforce-333333?style=flat&logo=perforce)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=Bitbucket)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<!-- ### Connect with me:
 
 <a href="www.linkedin.com/in/sanjanadumpala">
   <img align="left" alt="Sanjana Dumpala Linkedin" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
@@ -29,11 +40,8 @@ Here are some ideas to get you started:
 <a href="Sanjana Dumpala Email">
   <img align="left" alt="Sanjana Dumpala Resume" width="26px" 
   src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
-</a>
-<br />
-<br />
-
-### Languages:
+</a> -->
+#### Languages:
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="24px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
@@ -49,7 +57,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Web Frameworks and Mobile App Development:
+#### Web Frameworks and Mobile App Development:
 
 <a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/angular.svg"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/react.svg"/> </a>
@@ -69,7 +77,7 @@ src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534
 <br />
 <br />
 
-### Databases and Data Analysis:
+#### Databases and Data Analysis:
 
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/> </a>
@@ -84,7 +92,7 @@ src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534
 <br />
 <br />
 
-### AI & ML:
+#### AI & ML:
 
 <a href="https://www.tensorflow.org/" target="_blank"> <img align="left" alt="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> </a>
 <a href="https://keras.io/" target="_blank"> <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/> </a>
@@ -92,5 +100,14 @@ src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534
 <a href="https://scikit-learn.org/" target="_blank"> <img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> </a>
 <!-- <a href="https://huggingface.co/" target="_blank"> <img align="left" alt="Hugging Face" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Hugging_Face_logo.svg"/> </a> -->
 
+<br />
+<br />
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://sanjanadumpala.github.io"><img src="https://img.shields.io/badge/-sanjanadumpala.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanjanadumpala"><img src="https://img.shields.io/badge/-Sanjana%20Dumpala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dumpala@usc.edu"><img src="https://img.shields.io/badge/-dumpala@usc.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br />
 <br />
