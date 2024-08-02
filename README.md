@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; I like developing new technologies and software solutions to tackle today’s tech challenges
-- 🎓 &nbsp; I'm a omputer Science Masters student at University of Southern California
+- 🎓 &nbsp; I'm a Computer Science Masters student at University of Southern California
 
 ### 🛠 &nbsp;Tech Stack
 
