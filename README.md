@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#  I'm <a href="https://sanjanadumpala.github.io/">Sanjana</a>.
+#  I'm Sanjana.
 
 ### 💻 &nbsp;About Me 
 
@@ -74,7 +74,6 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://sanjanadumpala.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sanjanadumpala" target="_blank"><img src="https://img.shields.io/badge/-Sanjana%20Dumpala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dumpala@usc.edu" target="_blank"><img src="https://img.shields.io/badge/-dumpala@usc.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://dev.to/sanjanadumpala" target="_blank"><img src="https://img.shields.io/badge/-Sanjana%20Dumpala-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
